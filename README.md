@@ -1,4 +1,4 @@
-![SBIA YOUSSEF FullStack JavaScript developer](https://github.com/user-attachments/assets/39a1e42d-dc20-412c-9a90-1626b4e3107d)
+![SBIA YOUSSEF FullStack JavaScript developer](https://github.com/user-attachments/assets/6db327dd-7308-4602-a36c-f7fd56f66cd7)
 
 <h1 align="center" style="color: #FFB600">I'm Youssef SBIA</h1>
 <h4 align="center">Passionate about technology and web development, I am a Full Stack Developer with strong expertise in PHP and JavaScript. With several years of experience under my belt, I have worked on a variety of projects ranging from simple websites to complex web applications, collaborating closely with multidisciplinary teams to design and develop innovative and high-performing web solutions.</h3>
@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://linkedin.com/in/youssef-sbia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef-sbia" height="30" width="40" /></a>
 </p>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
